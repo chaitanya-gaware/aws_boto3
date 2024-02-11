@@ -1,0 +1,10 @@
+2024-02-11 15:56:29,271 - DEBUG - This is a debug message
+2024-02-11 15:56:29,272 - INFO - This is an info message
+2024-02-11 15:56:29,272 - WARNING - This is a warning message
+2024-02-11 15:56:29,273 - ERROR - This is an error message
+2024-02-11 15:56:29,273 - DEBUG - i am cool
+2024-02-11 15:56:44,267 - DEBUG - This is a debug message
+2024-02-11 15:56:44,268 - INFO - This is an info message
+2024-02-11 15:56:44,269 - WARNING - This is a warning message
+2024-02-11 15:56:44,269 - ERROR - This is an error message
+2024-02-11 15:56:44,269 - DEBUG - i am cool
